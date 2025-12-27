@@ -6,23 +6,36 @@
 I’m a cybersecurity student who’s early in the learning process and enjoying every step of it.  
 This GitHub is where I keep track of the labs, scripts, and small projects I work on as I build my skills.
 
+---
+
 ### What I’m learning right now
-- Python scripting
-- Linux fundamentals
-- Networking basics
-- Core cybersecurity concepts
+- Python scripting  
+- Linux fundamentals  
+- Networking basics  
+- Core cybersecurity concepts  
+
+---
 
 ### Tools I’ve been using
-- Kali Linux
-- Windows and macOS
-- Python
-- Basic networking tools
+- Kali Linux  
+- Windows and macOS  
+- Python  
+- Basic networking tools  
+
+---
+
+### Projects 
+<a href="https://github.com/ramid-tech/Simple-Log-Analyzer/tree/main" target="_blank">Simple Log Analyzer</a>
+
+---
 
 ### What you’ll find here
 - Cybersecurity labs and practice work  
 - Beginner Python scripts  
 - Linux and networking exercises  
 - School and personal learning projects  
+
+---
 
 ### My goal
 To build a solid foundation in cybersecurity, get hands-on experience, and keep improving over time.
